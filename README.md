@@ -1,7 +1,7 @@
 # Counterfactual Regret Minimization
 
 Minimal implementation of CFR to learn Nash equilibrium strategies
-for Kuhn poker and regret matching for Tic-Tac-Toe.
+for Kuhn poker and regret matching for rock paper scissors.
 
 ## Output
 
